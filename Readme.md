@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Станислав Соколов](https://up.htmlacademy.ru/htmlcss/30/user/1708613).
-* Наставник: `Неизвестно`.
+* Наставник: [Карина Карапетян](https://htmlacademy.ru/profile/karinaweb).
 
 ---
 
